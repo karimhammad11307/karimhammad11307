@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karim-hammad-080346204)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimhammad11307)
 
 </div>
 
@@ -16,12 +16,12 @@
 I'm **Karim Hammad**, a Software Engineering student and backend developer based in **Egypt 🇪🇬**.  
 I love turning complex problems into clean, performant solutions — whether that's designing a robust REST API, wiring up a systems-level backend in **Rust**, or building polished interfaces in **React**.
 
-- 🦀 Currently interning at **Majaz**, building a Shopify-clone e-commerce platform from the ground up in **Rust**
+- 🦀 Interned at **Beseha**, building a Shopify-clone e-commerce platform from the ground up in **Rust**
 - 🎓 Studying **Computer Science** with a major in **Software Engineering**
 - 💡 I come from a strong **JavaScript / Node.js** background and I'm pushing deeper into systems programming every day
 - 🔐 Curious about **network security**, web infrastructure, and how things actually work under the hood
 - 🌐 Have shipped personal projects and static sites — from local clothing-brand storefronts to GitHub Pages experiments
-- 📬 Always open to interesting projects and conversations — let's connect on **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)**
+- 📬 Always open to interesting projects and conversations — let's connect on **[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/karim-hammad-080346204)**
 
 ---
 
@@ -67,9 +67,9 @@ I love turning complex problems into clean, performant solutions — whether tha
 
 ## 🚀 What I'm Currently Up To
 
-- 🦀 Building **ahlan-commerce** — a full-featured e-commerce backend in Rust as part of my internship at **Majaz**
+- 🦀 Worked on a full-featured e-commerce backend in Rust as part of my internship at **Beseha**
 - 📚 Going deep on **systems programming**, async Rust, and scalable backend architecture
-- 🔐 Exploring **network security** and infrastructure fundamentals on the side
+- 🔐 Exploring **AI** and infrastructure fundamentals on the side
 - 🤝 Looking to collaborate on impactful backend or full-stack open-source projects
 
 ---
@@ -80,7 +80,7 @@ I love turning complex problems into clean, performant solutions — whether tha
 
 If you're working on something interesting in the **backend, systems, or web space** — or just want to talk code — I'm always up for it.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karim-hammad-080346204)
 
 <br/>
 
