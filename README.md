@@ -55,12 +55,12 @@ I love turning complex problems into clean, performant solutions — whether tha
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karimhammad11307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhammad11307&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=karimhammad11307&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ If you're working on something interesting in the **backend, systems, or web spa
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=karimhammad11307&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <br/><br/>
 
